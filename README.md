@@ -1,0 +1,2 @@
+# WordCount
+First django project
